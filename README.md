@@ -8,13 +8,13 @@
 ##### Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/frederico-vieira" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="frederico-vieira" height="30" width="30" />
+  <a href="https://linkedin.com/in/frederico-vieira" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="frederico-vieira" height="30" width="30" />
   </a>
-  <a href="https://stackoverflow.com/users/8340956" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111628.png" alt="8340956" height="30" width="30" />
+  <a href="https://stackoverflow.com/users/8340956" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111628.png" alt="8340956" height="30" width="30" />
   </a>
-  <a href="https://instagram.com/fredvieira9" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="fredvieira9" height="30" width="30" />
+  <a href="https://instagram.com/fredvieira9" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="fredvieira9" height="30" width="30" />
   </a>
-  <a href="https://twitter.com/fredvieira09" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="fredvieira09" height="30" width="30" />
+  <a href="https://twitter.com/fredvieira09" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="fredvieira09" height="30" width="30" />
   </a>
 </p>
 
