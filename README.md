@@ -4,8 +4,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, nice to see you!</h1>
 
-### I'm Frederico Vieira!
-##### A Software Engineer from Belo Horizonte, MG - Brazil
+<img height="180em" src="https://lh3.googleusercontent.com/zyCNyfu1DwMStiOCBjgrhAOuxuYM0qI6lLTGVBeC-Ykh01Q2-lWVFAXjIhP-ndvvPD7qEKgT2RwW78KTvjcC=w1920-h944" align="center"/>
 
 ##### Connect with me:
 <p>
