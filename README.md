@@ -4,7 +4,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, nice to see you!</h1>
 
-<img height="180em" src="https://user-images.githubusercontent.com/8905198/131201498-ec7621d0-31b8-4107-a76d-ef1d80b6cf1d.png" align="center"/>
+<!-- <img height="180em" src="https://user-images.githubusercontent.com/8905198/131201498-ec7621d0-31b8-4107-a76d-ef1d80b6cf1d.png" align="center"/> -->
 
 ##### Connect with me:
 <p>
